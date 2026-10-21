@@ -1,0 +1,14 @@
+# Android build output and local config are ignored in android/.gitignore.
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Claude Code per-user settings
+.claude/settings.local.json
